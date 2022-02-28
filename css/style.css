@@ -1,0 +1,13 @@
+.country {
+    border: 2px solid tomato;
+    margin: 10px;
+    border-radius: 10px; 
+    padding: 20px;
+    background-color: aquamarine;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+.head {
+    text-align: center;
+}
